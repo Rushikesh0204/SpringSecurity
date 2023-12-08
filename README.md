@@ -14,6 +14,7 @@
   -Microservice security (using token JWT)
   -method level security
 * core concept in spring security
+  
 a) Authentication and Authorization - Authentication : ask two question -1 who r u , 2 prove * * thise authentication known as knowledge based authentication -(stored user ID ,PASS) -
 
 Advantage- easy way to implement -
