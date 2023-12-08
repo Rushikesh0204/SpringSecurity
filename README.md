@@ -13,7 +13,8 @@
   -intra application autherization like OAuth
   -Microservice security (using token JWT)
   -method level security
-* core concept in spring security
+  
+  <h4>core concept in spring security</h4>
   
 a) Authentication and Authorization - Authentication : ask two question -1 who r u , 2 prove * * thise authentication known as knowledge based authentication -(stored user ID ,PASS) -
 
